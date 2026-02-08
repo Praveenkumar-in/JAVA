@@ -78,21 +78,48 @@
 //        System.out.println(a<=b);
 //    }
 //}
+//
 
-public class logicalop{
+
+
+//public class logicalop{
+//    static void main(String[] args) {
+//        boolean a= true;
+//        boolean b=true;
+//        boolean c= false;
+//        boolean d= false;
+//        System.out.println(!a);
+//        System.out.println(!c);
+//        System.out.println(a||b);
+//        System.out.println(c||d);
+//        System.out.println(a||c);
+//        System.out.println(a&&b);
+//        System.out.println(c&&b);
+//        System.out.println(a&&c);
+//
+//    }
+//}
+
+public class conditionstatement{
     static void main(String[] args) {
-        boolean a= true;
-        boolean b=true;
-        boolean c= false;
-        boolean d= false;
-        System.out.println(!a);
-        System.out.println(!c);
-        System.out.println(a||b);
-        System.out.println(c||d);
-        System.out.println(a||c);
-        System.out.println(a&&b);
-        System.out.println(c&&b);
-        System.out.println(a&&c);
+        int age = 18;
+        boolean haslicense = true;
 
+    if(age == 18){
+        if (haslicense){
+            System.out.println("u can drive");
+        }
+
+    }
+    else-if (age >= 18){
+        System.out.println("u r eligible");
+        if (haslicense){
+            System.out.println("u can drive");
+        }
+    }
+    else {
+            System.out.println("u r not drive");
+        }
+        System.out.println("code ent");
     }
 }
