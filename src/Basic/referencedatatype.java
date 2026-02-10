@@ -1,3 +1,5 @@
+package Basic;
+
 import java.awt.*;
 public class referencedatatype {
 

@@ -1,3 +1,5 @@
+package Basic;
+
 public class logicaloperator {
     static void main(String[] args) {
         boolean a= true;

@@ -1,3 +1,5 @@
+package Basic;
+
 public class primitivedatatype {
     static void main(String[] args) {
         int a = 1;

@@ -1,3 +1,5 @@
+package Basic;
+
 public class uniaryOperator {
     static void main(String[] args) {
         int a =1;

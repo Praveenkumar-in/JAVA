@@ -1,3 +1,5 @@
+package Basic;
+
 public class arithmeticoperator {
     static void main(String[] args) {
         int a = 5;

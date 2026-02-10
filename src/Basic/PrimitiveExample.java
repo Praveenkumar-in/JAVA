@@ -1,3 +1,5 @@
+package Basic;
+
 public class PrimitiveExample {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package Basic;
+
 public class conditionstatement{
     static void main(String[] args) {
         int age = 20;
