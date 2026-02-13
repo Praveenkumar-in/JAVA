@@ -46,3 +46,6 @@ B.Tech – Artificial Intelligence & Data Science (2028)
 Connect with me:
 - Connect with me on LinkedIn: www.linkedin.com/in/praveenkumar65
 - GitHub: https://github.com/Praveenkumar-in
+
+## License
+This project is licensed under the MIT License © 2026 Praveen Kumar
